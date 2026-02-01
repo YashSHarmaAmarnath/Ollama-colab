@@ -10,7 +10,6 @@ This setup lets you run **any LLM** inside **Google Colab**, using the **cloud G
 * Exposes a **web endpoint** to use the model like a chatbot
 * Supports **inline chat** (non-web version)
 
-> ⚠️ **Note**: The non-web (inline chat) version is still under development and is **not included in the repository yet**.
 
 ## How to Use
 
